@@ -3,7 +3,7 @@
 Software Developer @ GreenBooks Imaging Services LLP
 <img align="right" width="390" height="300" src="">
 - 🔭 Here's my [portfolio](https://github.com/harininh/hariportfolio.git)                                                 
-- 🌱 ~~I’m currently learning DSA~~
+- 🌱 ~~I’m currently learning MERN 
 - 🤔 I'm Helping others to land their dream job
 - 💬 Ask me about Tech
 - 📫 How to reach me :
